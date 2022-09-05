@@ -1,2 +1,0 @@
-# sfml-orbital
-sfml-orbital
